@@ -36,7 +36,7 @@ Through the chart we can see trends within each city type from the months of Jan
 
 Overall, there does not appear to be a consistent trend between the three city types when looking at week-over-week total fares. Each city type increases and decreases over the course of Jan - Apr at different times with no clear pattern between the three. This indicates that the demand for ride-sharing between the three city types is affected by different factors and each city type should be analyzed separately if trying to determine time-related trends and forecasting. 
 
-#Summary
+# Summary
 Through the analysis, the following was determined:
 
 - Urban areas have the highest total fare, riders and drivers yet the lowest average fare per-rider and per-driver. 
